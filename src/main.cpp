@@ -13,6 +13,7 @@
 
 using namespace std;
 #define MYPORT 3490
+
 int main(int argc, char *argv[]) {
     string inputString;
     char input;
